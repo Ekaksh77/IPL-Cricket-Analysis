@@ -1,5 +1,8 @@
 # IPL-Cricket-Analysis
 Data Analysis by using Tableau
+![IPL](https://github.com/Ekaksh77/IPL-Cricket-Analysis/assets/137069741/c8e1fb65-d41d-48d9-b7cf-e44f904d2b50)
+
+
 Dash Board : 
 1. Filter : We can select the season of IPL to know our results
 2. Title Winner
