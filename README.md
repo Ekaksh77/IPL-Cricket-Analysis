@@ -1,4 +1,4 @@
-# IPL-Cricket-Analysis
+# IPL-Cricket-Analysis using Tableua
 Data Analysis by using Tableau
 ![IPL](https://github.com/Ekaksh77/IPL-Cricket-Analysis/assets/137069741/c8e1fb65-d41d-48d9-b7cf-e44f904d2b50)
 
